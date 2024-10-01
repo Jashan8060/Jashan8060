@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm an aspiring programmer and tech enthusiast cur
 
 Here are some of my projects that showcase my skills:
 
-- **[Jarvis - Personal Voice Assistant](https://github.com/Jashan8060/Jarvis-Virtual-Assistant1)**:Jarvis is a personal voice assistant designed to perform various tasks based on voice commands.
+- **[Jarvis - Personal Voice Assistant](https://github.com/Jashan8060/Jarvis-Virtual-Assistant1)**: Jarvis is a personal voice assistant designed to perform various tasks based on voice commands.
 
 
 Feel free to check them out!
